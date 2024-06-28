@@ -1,0 +1,23 @@
+We have to see for components//
+
+Will make with react.js----> will change to next.js if required
+
+
+1------> Navigation bar 
+2------> Search Bar 
+3------> Logo + Name on the top left
+
+------This will be done for the top section of the website
+
+Next is the body -----> Should be dynamic while scrolling {
+  Make a container in which there are different sections 
+}
+
+<------------------components----------------------->
+
+buttons should work properly and redirect to a different page
+
+
+
+
+                        
